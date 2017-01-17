@@ -10,7 +10,6 @@ ele.class
 
 /^\w+\.\w+$/
 
-
 属性
 ele[name=value]
     /^\w+\[\w+\=\w+\]$/
