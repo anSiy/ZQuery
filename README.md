@@ -19,15 +19,24 @@ ele[name=value]
 
 
 伪类选择器
+
     /^\w+\:\w+(\(\d+\))?$/
 
+
 li:first
+
 li:last
+
 li:even
+
 li:odd
+
 li:lt(2)
+
 li:gt(2)
+
 li:eq(2)
+
 事件流 DOM事件流 高级浏览器下的事件流 冒泡阶段 捕获阶段 IE事件流 低版本IE下的事件流 冒泡阶段
 
 ZQuery jquery里面样式、属性..获取的时候默认获取第一个元素的 方法 .css() .css(name); 获取样式 .css(name,value); 设置样式 .css({}); 批量设置样式 .attr() .attr(name); 获取属性 .attr(name,value); 设置属性 .attr({}); 批量设置属性
