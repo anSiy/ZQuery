@@ -6,11 +6,13 @@
 #box ul li
 
 筛选
+
 ele.class
 
 /^\w+\.\w+$/
 
 属性
+
 ele[name=value]
     /^\w+\[\w+\=\w+\]$/
 
